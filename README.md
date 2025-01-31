@@ -1,4 +1,6 @@
 # Decoding Customer Sentiment Towards Safaricom PLC on X
+![SentimentAnalysis](https://github.com/user-attachments/assets/cab24d9c-3e86-4a5e-bcb5-b17b010cafb2)
+
 
 ## Project Summary
 In today’s digital era, social media plays a pivotal role in shaping public sentiment, particularly in the financial domain. This study focuses on analyzing social media discussions, specifically tweets discussing Safaricom PLC on X (formerly Twitter), leveraging Natural Language Processing (NLP) techniques. By systematically collecting and analyzing tweets, this project uncovers insights into the prevailing sentiment surrounding Safaricom PLC, which can significantly influence consumer perceptions and investment decisions. Sentiments are categorized into positive, negative, and neutral classes, enabling a comprehensive understanding of public opinion and its implications for brand reputation and market performance.
